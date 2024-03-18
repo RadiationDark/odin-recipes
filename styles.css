@@ -1,3 +1,16 @@
 .header {
     text-align: center;
+    background-color: #f09c9cf8;
+    padding: 10px;
+    padding-top: 20px;
+}
+.head {
+    margin-block-start: 0px;
+}
+.list-box {
+    margin-left: 42%;
+    color: #f0bb9cf8;
+}
+.list {
+    color: #f0bb9cf8;
 }
