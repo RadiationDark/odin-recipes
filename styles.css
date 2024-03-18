@@ -7,10 +7,12 @@
 .head {
     margin-block-start: 0px;
 }
-.list-box {
-    margin-left: 42%;
-    color: #f0bb9cf8;
-}
 .list {
     color: #f0bb9cf8;
+}
+
+.Description ,
+.Ingredients ,
+.Steps {
+    text-align: center;
 }
